@@ -13,7 +13,7 @@
 | 2 | **Betselot Abraham** | RU1612/14 |
 | 3 | **Mengistu Tadesse** | RU1187/14 |
 | 4 | **Natnael Bayu** | RU1408/14 |
-| 5 | **Iman Hussen** | RU0279/14 |
+| 5 | **Eman Hussen** | RU0279/14 |
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 1. Introduction
 
-This report provides an overview of the development and testing of various **Java-based web services** and API testing tools. The assignment is structured into three key sections:
+This report presents a comprehensive overview of the development and evaluation of Java-based web services along with the testing of related APIs and tools. The assignment is organized into three main sections, each focusing on a distinct aspect of the project.
 
 ### 1.1 Developing a Java Web Service
 
